@@ -1,4 +1,6 @@
 const favoriteSoupList = {
-    "John": "clam chowder",
-    "Antoine": "chili",
+    "Max": "banh canh cua",
+    "Sarai": "Chicken Noodle Soup",
+    "Monir": "thai soup",
+    "John": "new england clam chowder"
 }
